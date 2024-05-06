@@ -1,0 +1,567 @@
+---
+added: '2024-05-06 20:25:06.255784'
+thumbnail: ''
+title:
+- en:
+  - O.0219
+user: Frederic Lamsens
+
+---
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://flamsens.github.io/annonatate/manifests/iiif.ghentcdh.ugent.be/iiif/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "O.0219"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/cune-iiif-orm:sde:O.0219/canvas/0001",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "folder name"
+        ]
+      },
+      "height": 6270,
+      "width": 2551,
+      "items": [
+        {
+          "id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/cune-iiif-orm:sde:O.0219/annotation-page/0001/choices",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/cune-iiif-orm:sde:O.0219/annotation/0001/choice/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "type": "Choice",
+                "items": [
+                  {
+                    "id": "https://iiif.ghentcdh.ugent.be/iiif/images/cune-iiif-orm:testset:O.0219:O.0219_ColorB/full/full/0/default.jpg",
+                    "type": "Image",
+                    "height": 6270,
+                    "width": 2551,
+                    "service": [
+                      {
+                        "id": "https://iiif.ghentcdh.ugent.be/iiif/images/cune-iiif-orm:testset:O.0219:O.0219_ColorB",
+                        "type": "ImageService2",
+                        "profile": "level2"
+                      }
+                    ],
+                    "format": "image/jpeg",
+                    "label": {
+                      "en": [
+                        "O.0219_ColorB"
+                      ]
+                    }
+                  },
+                  {
+                    "id": "https://iiif.ghentcdh.ugent.be/iiif/images/cune-iiif-orm:testset:O.0219:O.0219_ShadedA/full/full/0/default.jpg",
+                    "type": "Image",
+                    "height": 6270,
+                    "width": 2551,
+                    "service": [
+                      {
+                        "id": "https://iiif.ghentcdh.ugent.be/iiif/images/cune-iiif-orm:testset:O.0219:O.0219_ShadedA",
+                        "type": "ImageService2",
+                        "profile": "level2"
+                      }
+                    ],
+                    "format": "image/jpeg",
+                    "label": {
+                      "en": [
+                        "O.0219_ShadedA"
+                      ]
+                    }
+                  },
+                  {
+                    "id": "https://iiif.ghentcdh.ugent.be/iiif/images/cune-iiif-orm:testset:O.0219:O.0219_ColorA/full/full/0/default.jpg",
+                    "type": "Image",
+                    "height": 6270,
+                    "width": 2551,
+                    "service": [
+                      {
+                        "id": "https://iiif.ghentcdh.ugent.be/iiif/images/cune-iiif-orm:testset:O.0219:O.0219_ColorA",
+                        "type": "ImageService2",
+                        "profile": "level2"
+                      }
+                    ],
+                    "format": "image/jpeg",
+                    "label": {
+                      "en": [
+                        "O.0219_ColorA"
+                      ]
+                    }
+                  },
+                  {
+                    "id": "https://iiif.ghentcdh.ugent.be/iiif/images/cune-iiif-orm:testset:O.0219:O.0219_Sketch01Soft/full/full/0/default.jpg",
+                    "type": "Image",
+                    "height": 6270,
+                    "width": 2551,
+                    "service": [
+                      {
+                        "id": "https://iiif.ghentcdh.ugent.be/iiif/images/cune-iiif-orm:testset:O.0219:O.0219_Sketch01Soft",
+                        "type": "ImageService2",
+                        "profile": "level2"
+                      }
+                    ],
+                    "format": "image/jpeg",
+                    "label": {
+                      "en": [
+                        "O.0219_Sketch01Soft"
+                      ]
+                    }
+                  },
+                  {
+                    "id": "https://iiif.ghentcdh.ugent.be/iiif/images/cune-iiif-orm:testset:O.0219:O.0219_ShadedC/full/full/0/default.jpg",
+                    "type": "Image",
+                    "height": 6270,
+                    "width": 2551,
+                    "service": [
+                      {
+                        "id": "https://iiif.ghentcdh.ugent.be/iiif/images/cune-iiif-orm:testset:O.0219:O.0219_ShadedC",
+                        "type": "ImageService2",
+                        "profile": "level2"
+                      }
+                    ],
+                    "format": "image/jpeg",
+                    "label": {
+                      "en": [
+                        "O.0219_ShadedC"
+                      ]
+                    }
+                  },
+                  {
+                    "id": "https://iiif.ghentcdh.ugent.be/iiif/images/cune-iiif-orm:testset:O.0219:O.0219_ColorD/full/full/0/default.jpg",
+                    "type": "Image",
+                    "height": 6270,
+                    "width": 2551,
+                    "service": [
+                      {
+                        "id": "https://iiif.ghentcdh.ugent.be/iiif/images/cune-iiif-orm:testset:O.0219:O.0219_ColorD",
+                        "type": "ImageService2",
+                        "profile": "level2"
+                      }
+                    ],
+                    "format": "image/jpeg",
+                    "label": {
+                      "en": [
+                        "O.0219_ColorD"
+                      ]
+                    }
+                  },
+                  {
+                    "id": "https://iiif.ghentcdh.ugent.be/iiif/images/cune-iiif-orm:testset:O.0219:O.0219_Color00/full/full/0/default.jpg",
+                    "type": "Image",
+                    "height": 6270,
+                    "width": 2551,
+                    "service": [
+                      {
+                        "id": "https://iiif.ghentcdh.ugent.be/iiif/images/cune-iiif-orm:testset:O.0219:O.0219_Color00",
+                        "type": "ImageService2",
+                        "profile": "level2"
+                      }
+                    ],
+                    "format": "image/jpeg",
+                    "label": {
+                      "en": [
+                        "O.0219_Color00"
+                      ]
+                    }
+                  },
+                  {
+                    "id": "https://iiif.ghentcdh.ugent.be/iiif/images/cune-iiif-orm:testset:O.0219:O.0219_Sketch01Hard/full/full/0/default.jpg",
+                    "type": "Image",
+                    "height": 6270,
+                    "width": 2551,
+                    "service": [
+                      {
+                        "id": "https://iiif.ghentcdh.ugent.be/iiif/images/cune-iiif-orm:testset:O.0219:O.0219_Sketch01Hard",
+                        "type": "ImageService2",
+                        "profile": "level2"
+                      }
+                    ],
+                    "format": "image/jpeg",
+                    "label": {
+                      "en": [
+                        "O.0219_Sketch01Hard"
+                      ]
+                    }
+                  },
+                  {
+                    "id": "https://iiif.ghentcdh.ugent.be/iiif/images/cune-iiif-orm:testset:O.0219:O.0219_ColorC/full/full/0/default.jpg",
+                    "type": "Image",
+                    "height": 6270,
+                    "width": 2551,
+                    "service": [
+                      {
+                        "id": "https://iiif.ghentcdh.ugent.be/iiif/images/cune-iiif-orm:testset:O.0219:O.0219_ColorC",
+                        "type": "ImageService2",
+                        "profile": "level2"
+                      }
+                    ],
+                    "format": "image/jpeg",
+                    "label": {
+                      "en": [
+                        "O.0219_ColorC"
+                      ]
+                    }
+                  },
+                  {
+                    "id": "https://iiif.ghentcdh.ugent.be/iiif/images/cune-iiif-orm:testset:O.0219:O.0219_ShadedD/full/full/0/default.jpg",
+                    "type": "Image",
+                    "height": 6270,
+                    "width": 2551,
+                    "service": [
+                      {
+                        "id": "https://iiif.ghentcdh.ugent.be/iiif/images/cune-iiif-orm:testset:O.0219:O.0219_ShadedD",
+                        "type": "ImageService2",
+                        "profile": "level2"
+                      }
+                    ],
+                    "format": "image/jpeg",
+                    "label": {
+                      "en": [
+                        "O.0219_ShadedD"
+                      ]
+                    }
+                  },
+                  {
+                    "id": "https://iiif.ghentcdh.ugent.be/iiif/images/cune-iiif-orm:testset:O.0219:O.0219_ShadedB/full/full/0/default.jpg",
+                    "type": "Image",
+                    "height": 6270,
+                    "width": 2551,
+                    "service": [
+                      {
+                        "id": "https://iiif.ghentcdh.ugent.be/iiif/images/cune-iiif-orm:testset:O.0219:O.0219_ShadedB",
+                        "type": "ImageService2",
+                        "profile": "level2"
+                      }
+                    ],
+                    "format": "image/jpeg",
+                    "label": {
+                      "en": [
+                        "O.0219_ShadedB"
+                      ]
+                    }
+                  }
+                ]
+              },
+              "target": "https://iiif.ghentcdh.ugent.be/iiif/manifests/cune-iiif-orm:sde:O.0219/canvas/0001"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "http://example.org/iiif/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "type": "Annotation",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "purpose": "Transliteration",
+                  "value": "1(u)",
+                  "dimensions": {
+                    "x": 2034,
+                    "y": 5000
+                  }
+                },
+                {
+                  "type": "TextualBody",
+                  "purpose": "TabletSide",
+                  "value": "front"
+                },
+                {
+                  "type": "TextualBody",
+                  "purpose": "Line",
+                  "value": "1"
+                },
+                {
+                  "type": "TextualBody",
+                  "purpose": "Charindex",
+                  "value": "1",
+                  "dimensions": {
+                    "x": 2034,
+                    "y": 5000
+                  }
+                }
+              ],
+              "target": {
+                "source": "https://iiif.ghentcdh.ugent.be/iiif/manifests/cune-iiif-orm:sde:O.0219/canvas/0001",
+                "selector": {
+                  "type": "SvgSelector",
+                  "value": "<svg><polygon points=\"722.3016967773438,657.2230224609375 711.1035766601562,700.9114990234375 710.382568359375,722.2218017578125 658.4700317382812,722.2218017578125 636.5514526367188,679.5381469726562 659.6236572265625,654.1587524414062 704.614501953125,639.1618041992188\" /></svg>"
+                },
+                "type": "SpecificResource"
+              },
+              "id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/cune-iiif-orm:sde:O.0219/annotation/#c426144a-b36b-4503-bcf6-7a0c36edd371",
+              "motivation": "tagging"
+            },
+            {
+              "type": "Annotation",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "purpose": "Transliteration",
+                  "value": "1(asz)",
+                  "dimensions": {
+                    "x": 2034,
+                    "y": 5000
+                  }
+                },
+                {
+                  "type": "TextualBody",
+                  "purpose": "Column",
+                  "value": ""
+                },
+                {
+                  "type": "TextualBody",
+                  "purpose": "Line",
+                  "value": "1",
+                  "dimensions": {
+                    "x": 2034,
+                    "y": 5000
+                  }
+                },
+                {
+                  "type": "TextualBody",
+                  "purpose": "Charindex",
+                  "value": "2",
+                  "dimensions": {
+                    "x": 2034,
+                    "y": 5000
+                  }
+                },
+                {
+                  "type": "TextualBody",
+                  "purpose": "TabletSide",
+                  "value": "front"
+                }
+              ],
+              "target": {
+                "source": "https://iiif.ghentcdh.ugent.be/iiif/manifests/cune-iiif-orm:sde:O.0219/canvas/0001",
+                "selector": {
+                  "type": "SvgSelector",
+                  "value": "<svg><polygon points=\"843.786865234375,666.6411743164062 721.4995727539062,647.3857421875 705.7681274414062,702.6104125976562 726.5331420898438,714.146484375 821.1292724609375,691.0742797851562\" /></svg>"
+                },
+                "type": "SpecificResource"
+              },
+              "id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/cune-iiif-orm:sde:O.0219/annotation/#2b053d88-5bce-49ff-aba9-104bd645b279",
+              "motivation": "tagging"
+            },
+            {
+              "type": "Annotation",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "purpose": "TabletSide",
+                  "value": "front"
+                },
+                {
+                  "type": "TextualBody",
+                  "purpose": "Transliteration",
+                  "value": "iku",
+                  "dimensions": {
+                    "x": 2034,
+                    "y": 5000
+                  }
+                },
+                {
+                  "type": "TextualBody",
+                  "purpose": "Column",
+                  "value": ""
+                },
+                {
+                  "type": "TextualBody",
+                  "purpose": "Line",
+                  "value": "1",
+                  "dimensions": {
+                    "x": 2034,
+                    "y": 5000
+                  }
+                },
+                {
+                  "type": "TextualBody",
+                  "purpose": "Charindex",
+                  "value": "3",
+                  "dimensions": {
+                    "x": 2034,
+                    "y": 5000
+                  }
+                }
+              ],
+              "target": {
+                "source": "https://iiif.ghentcdh.ugent.be/iiif/manifests/cune-iiif-orm:sde:O.0219/canvas/0001",
+                "selector": {
+                  "type": "SvgSelector",
+                  "value": "<svg><polygon points=\"1071.6566162109375,626.9902954101562 1056.9166259765625,727.3139038085938 1014.8367919921875,735.7857055664062 982.5357055664062,725.4032592773438 975.614013671875,705.7918701171875 885.63232421875,702.3309936523438 893.7076416015625,627.3462524414062 936.3912353515625,610.0421142578125\" /></svg>"
+                },
+                "type": "SpecificResource"
+              },
+              "id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/cune-iiif-orm:sde:O.0219/annotation/#0417f494-13e9-4e95-8fff-1040c5e1ce86",
+              "motivation": "tagging"
+            },
+            {
+              "type": "Annotation",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "purpose": "Transliteration",
+                  "value": "a"
+                },
+                {
+                  "type": "TextualBody",
+                  "purpose": "Column",
+                  "value": ""
+                },
+                {
+                  "type": "TextualBody",
+                  "purpose": "Line",
+                  "value": "1",
+                  "dimensions": {
+                    "x": 2034,
+                    "y": 5000
+                  }
+                },
+                {
+                  "type": "TextualBody",
+                  "purpose": "Charindex",
+                  "value": "4",
+                  "dimensions": {
+                    "x": 2034,
+                    "y": 5000
+                  }
+                },
+                {
+                  "type": "TextualBody",
+                  "purpose": "TabletSide",
+                  "value": "front"
+                }
+              ],
+              "target": {
+                "source": "https://iiif.ghentcdh.ugent.be/iiif/manifests/cune-iiif-orm:sde:O.0219/canvas/0001",
+                "selector": {
+                  "type": "SvgSelector",
+                  "value": "<svg><polygon points=\"1153.23583984375,630.8943481445312 1073.640625,621.0648193359375 1060.99853515625,724.9142456054688 1104.6348876953125,729.459716796875\" /></svg>"
+                },
+                "type": "SpecificResource"
+              },
+              "id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/cune-iiif-orm:sde:O.0219/annotation/#e691a439-a30a-4d67-9828-f0718b07af62",
+              "motivation": "tagging"
+            },
+            {
+              "type": "Annotation",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "purpose": "Transliteration",
+                  "value": "sza3",
+                  "dimensions": {
+                    "x": 2034,
+                    "y": 5000
+                  }
+                },
+                {
+                  "type": "TextualBody",
+                  "purpose": "Column",
+                  "value": ""
+                },
+                {
+                  "type": "TextualBody",
+                  "purpose": "Line",
+                  "value": "1",
+                  "dimensions": {
+                    "x": 2034,
+                    "y": 5000
+                  }
+                },
+                {
+                  "type": "TextualBody",
+                  "purpose": "Charindex",
+                  "value": "5",
+                  "dimensions": {
+                    "x": 2034,
+                    "y": 5000
+                  }
+                },
+                {
+                  "type": "TextualBody",
+                  "purpose": "TabletSide",
+                  "value": "front"
+                }
+              ],
+              "target": {
+                "source": "https://iiif.ghentcdh.ugent.be/iiif/manifests/cune-iiif-orm:sde:O.0219/canvas/0001",
+                "selector": {
+                  "type": "SvgSelector",
+                  "value": "<svg><polygon points=\"1321.1690673828125,617.8936767578125 1225.991455078125,607.96826171875 1157.3621826171875,675.8233642578125 1160.0894775390625,693.0960693359375 1220.99853515625,709.459716796875 1265.5440673828125,710.3687744140625 1309.180419921875,652.18701171875\" /></svg>"
+                },
+                "type": "SpecificResource"
+              },
+              "id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/cune-iiif-orm:sde:O.0219/annotation/#2b34febc-4ae0-4dd0-a7e6-d5e023d4bdb2",
+              "motivation": "tagging"
+            },
+            {
+              "type": "Annotation",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "purpose": "Transliteration",
+                  "value": "sza3",
+                  "dimensions": {
+                    "x": 2034,
+                    "y": 5000
+                  }
+                },
+                {
+                  "type": "TextualBody",
+                  "purpose": "Column",
+                  "value": ""
+                },
+                {
+                  "type": "TextualBody",
+                  "purpose": "Line",
+                  "value": "1",
+                  "dimensions": {
+                    "x": 2034,
+                    "y": 5000
+                  }
+                },
+                {
+                  "type": "TextualBody",
+                  "purpose": "Charindex",
+                  "value": "5",
+                  "dimensions": {
+                    "x": 2034,
+                    "y": 5000
+                  }
+                },
+                {
+                  "type": "TextualBody",
+                  "purpose": "TabletSide",
+                  "value": "front"
+                }
+              ],
+              "target": {
+                "source": "https://iiif.ghentcdh.ugent.be/iiif/manifests/cune-iiif-orm:sde:O.0219/canvas/0001",
+                "selector": {
+                  "type": "SvgSelector",
+                  "value": "<svg><polygon points=\"1321.1690673828125,617.8936767578125 1225.991455078125,607.96826171875 1157.3621826171875,675.8233642578125 1160.0894775390625,693.0960693359375 1220.99853515625,709.459716796875 1265.5440673828125,710.3687744140625 1309.180419921875,652.18701171875\" /></svg>"
+                },
+                "type": "SpecificResource"
+              },
+              "id": "https://iiif.ghentcdh.ugent.be/iiif/manifests/cune-iiif-orm:sde:O.0219/annotation/#2b34febc-4ae0-4dd0-a7e6-d5e023d4bdb2",
+              "motivation": "tagging"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
